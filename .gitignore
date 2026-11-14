@@ -1,0 +1,15 @@
+# Maven / NetBeans
+target/
+nbproject/private/
+nbactions.xml
+*.class
+
+# Ficheros generados al ejecutar
+*.obj
+
+# IDE y sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
