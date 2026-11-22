@@ -13,3 +13,4 @@ nbactions.xml
 *.iml
 .DS_Store
 Thumbs.db
+db.properties
